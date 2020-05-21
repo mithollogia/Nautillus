@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">nautillus</string>
+
+    <string name="app_logo">NAUTILLUS</string>
+    <string name="app_welcome">HELLO!</string>
+    <string name="app_slogan">tecnologias</string>
+
+    <string name="scan">SCAN</string>
+    <string name="home">HOME</string>
+    <string name="create">CREATE</string>
+    <string name="settings">SETTINGS</string>
+
+    <string name="buttonGerar">GERAR QR</string>
+
+</resources>
